@@ -1,6 +1,6 @@
 # `CRUST` Conceptualizing Reproducibility Using Simulations and Theory
 
-CURST is a model-centric meta-scientific framework in which scientific discovery progresses by confirming models proposed in idealized and replication experiments.
+CRUST is a model-centric meta-scientific framework in which scientific discovery progresses by confirming models proposed in idealized and replication experiments.
 
 ## Software Pre-requisites
 
